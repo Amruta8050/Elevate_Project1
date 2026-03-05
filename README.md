@@ -94,4 +94,7 @@ Amruta Hadapad
 ---
 
 ##Outputs
+<img width="1057" height="397" alt="Image" src="https://github.com/user-attachments/assets/17a04933-288c-4ae5-9667-27c86bc0ad68" />
+<img width="1051" height="632" alt="Image" src="https://github.com/user-attachments/assets/0d10c307-f23b-43c4-9172-1a2e30a71070" />
+<img width="1030" height="647" alt="Image" src="https://github.com/user-attachments/assets/5c6191cb-5442-49d7-9112-4eff4263381e" />
 
